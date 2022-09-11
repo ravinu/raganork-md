@@ -54,9 +54,9 @@
             "value":"Raganork"
         },
         "AUDIO_DATA": {
-            "description": "Name of audio (take) name;name;image(url)",
+            "description": "Name of audio (take) name;name;image(https://i.ibb.co/ZcbrwVW/wallpapersden-com-spider-man-hd-digital-art-2022-3840x2151.jpg)",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
+            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://i.ibb.co/ZcbrwVW/wallpapersden-com-spider-man-hd-digital-art-2022-3840x2151.jpg"
         },
         "MODE": {
             "description": "Private or public",
